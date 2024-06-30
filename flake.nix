@@ -18,6 +18,7 @@
         # so that we can use the `agenix` & `mysecrets` in sub-modules
         specialArgs = inputs;
         modules = [
+          ai-hyprland
           # ......
 
           # import & decrypt secrets in `mysecrets` in this module
