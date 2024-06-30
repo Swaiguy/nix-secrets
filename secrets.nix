@@ -1,8 +1,7 @@
  
 ##Krys Imput.. idols_ai? whatever, i need to personalise all this later
   let
-    ai-hyprland = "ssh-ed25519 123 root@kry";
-    #idol_ai = "ssh-ed25519 123 root@kry";
+    idol_ai = "ssh-ed25519 123 root@kry";
     recovery_key = "ssh-ed25519 123 ryan@agenix-recovery";
     systems = [
     idol_ai
