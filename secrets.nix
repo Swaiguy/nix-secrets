@@ -2,7 +2,7 @@
 ##Krys Imput.. idols_ai? whatever, i need to personalise all this later
   let
     idols_ai = "ssh-ed25519 123 root@kry";
-    recovery_key = "ssh-ed25519 123 ryan@agenix-recovery";
+    recovery_key = "ssh-ed25519 123 kry@agenix-recovery";
     systems = [
     idols_ai
 
