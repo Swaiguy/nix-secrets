@@ -1,10 +1,10 @@
  
 # import & decrypt secrets in `mysecrets` in this module
-{ config, pkgs, agenix, mysecrets, ... }:
+{ config, pkgs, ragenix, mysecrets, ... }:
 
 {
   imports = [
-     agenix.nixosModules.default
+     ragenix.nixosModules.default
   ];
 
   # if you changed this key, you need to regenerate all encrypt files from the decrypt contents!
