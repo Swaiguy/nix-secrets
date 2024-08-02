@@ -3,7 +3,7 @@
     # ......
 
     # secrets management, lock with git commit at 2023/5/15
-    ragenix.url = "github:yaxitech/ragenix";
+    agenix.url = "github:yaxitech/ragenix";
 
     # my private secrets, it's a private repository, you need to replace it with your own.
     mysecrets = { url = "github:Swaiguy/nix-secrets"; flake = false; };
