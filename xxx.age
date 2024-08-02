@@ -3,7 +3,7 @@
    ##and so 1 week later i am.
   let
     
-    pc-ai = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAAYmU24eBlK1jM/zYLfcFkp5nzPLPZjJgDaIRsI3Fo1 xtrasodiumchloride2@gmail.com";
+    pc-ai = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILwVW+kTSZbzAbzR4N5XJJ6yY4GEPA6SBBKV5a/231Qp root@pc;
 
     recovery_key = "SHA256:JQlyeyGfOeeDdMVc3sQ2doFGdLUrunl8VuaZ1VGJCmA kry@agenix-recovery";
     
